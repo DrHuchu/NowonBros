@@ -1,0 +1,2 @@
+UI 텍스트 anchors shift, ctrl 눌러서 좌표 0에 맞춰주면 좋다
+
